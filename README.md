@@ -47,7 +47,7 @@ The Omniglot dataset is included in the `datasets` directory or can be downloade
 - `omniglot_dataset_few_shot.ipynb`: Notebook for interactively testing the model.
 
 ## Usage
-- `jupyyter notebook`
+- `for training`
 Open the file in your jupyter notebook or google colab.
 
 ## Results
